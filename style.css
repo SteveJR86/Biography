@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+body {
+  max-width: 600px;
+  margin: auto;
+  background-color: #506485;
+  color: #dddddd;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: rem;
+}
+
+p {
+  text-align: left;
+  padding: 5px 10px;
+}
+ul {
+  list-style-position: inside;
+}
+.contact-details {
+  margin: 5px 10px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 5px black; 
+}
+
+a {
+  color: blue;
+}
